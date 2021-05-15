@@ -1,0 +1,5 @@
+{
+"c.fnfd5bptoazdphlg6wknuvzcwse.db.citusdata.com":{"godaddy_account_details":["id","merchant_id","test_account","account_status","website_id","api_key","created_at","updated_at","imported_channel_ids","shopper_id","reseller_id"],
+"merchants":["id","created_at","updated_at"]},
+"ec2-54-184-213-71.us-west-2.compute.amazonaws.com":{"feeds_102657":["id", "merchant_id", "status", "path", "created_at", "updated_at"]}
+}
